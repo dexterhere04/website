@@ -10,6 +10,7 @@
 	// Frontend pings that server for the leaderboard.
 	// The frontend sorts the list, not the server.
 	// REMEMBER TO CACHE JSON
+	//changed all sorting issues
 	let teams = true;
 	let loading = true;
    function sortLeaderboard() {
